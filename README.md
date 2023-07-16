@@ -12,6 +12,7 @@ Make sure these dependencies are installed in your project.
 
 # API Usage
 The component interacts with the following API endpoints:
+https://peaceful-rugelach-7c727f.netlify.app/
 
 GET https://jsonplaceholder.typicode.com/albums: Retrieves the list of albums.
 DELETE https://jsonplaceholder.typicode.com/albums/{itemId}: Deletes an album with the specified ID.
